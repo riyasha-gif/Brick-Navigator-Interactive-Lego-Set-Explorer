@@ -24,14 +24,23 @@ A dedicated navigation page featuring a Decomposition Tree that analyzes the str
 # Power BI Skills Demonstrated:
 
 Data Transformation (Power Query):
+
 Cleanup of raw CSVs, removal of null/empty rows, data type conversions, and creation of calculated columns (Age Range, Price Range).
+
 Data Modeling & DAX: 
+
 Creation of explicit measures for KPI cards (Total Sets, Avg Pieces, Avg Price).
+
 UX/UI Design: 
+
 Implementation of dynamic interactions, single-select visualizations, and action buttons for navigation (Bookmarks).
+
 Advanced Visualization:
+
 Utilization of the Decomposition Tree for hierarchical analysis and custom Tooltip Reports for image display.
+
 Interactive Components:
+
 Use of Parameters (What-If Analysis) for the dynamic Price Range filter.
 
 
