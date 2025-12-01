@@ -1,4 +1,5 @@
 # Brick-Navigator-Interactive-Lego-Set-Explorer:
+![Screenshot](Screenshot.png)
 # Overview:
 Brick Navigator is a data-driven project built entirely in Power BI to solve a common problem for Lego collectors:set discovery paralysis..The tool transforms a massive dataset of Lego sets into an interactive, intuitive user interface, allowing collectors to efficiently narrow down their search criteria based on key variables like price, theme, and age range.
 
